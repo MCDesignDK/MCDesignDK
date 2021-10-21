@@ -455,7 +455,7 @@ section .title::after {
             }
 
             .mysql::before {
-                width: 70%;
+                width: 10%;
             }
         }
     }
@@ -504,7 +504,7 @@ section .title::after {
 
             img {
                 height: 250px;
-                width: 90%;
+                width: 100%;
                 object-fit: cover;
                 border: 5px solid var(--main-color);
                 transition: all 0.3s ease;
